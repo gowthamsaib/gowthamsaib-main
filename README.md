@@ -41,7 +41,7 @@ Recently, I completed my **Master’s in Business Analytics and Information Syst
 
 ## 📄 Resume
 
-📎 [View My Resume](https://github.com/gowthamsaib/gowthamsaib/blob/37e574e8948457adab3b2b1789aa426e1691e962/Gowtham%20Sai%20Bhuvanam_Resume.pdf)
+📎 [View My Resume](GOWTHAM_SAI_RESUME.pdf)
 ---
 
 ## 📫 Let's Connect
